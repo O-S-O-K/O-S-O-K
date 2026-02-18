@@ -1,155 +1,72 @@
-🚀 Sheron Schley
+🔹 Predictive Analytics & AI Systems Architect | Enterprise Risk & Optimization
 
-Predictive Analytics & AI Systems Architect | Defense Executive Background | Enterprise Data Systems
+I build end-to-end predictive analytics systems that convert complex data into operational decision frameworks.
 
-I design end-to-end predictive analytics platforms that convert complex, fragmented data into operational decision systems.
+With 15+ years leading $40M+ DoD sustainment and modernization programs, I now focus on designing production-ready machine learning platforms aligned to revenue protection, risk modeling, and operational optimization.
 
-With 15+ years leading $40M+ DoD sustainment, logistics, and modernization programs, I now build production-ready machine learning systems focused on risk modeling, revenue protection, and operational optimization.
+I specialize in bridging:
 
-My work bridges:
+  🔹 Predictive modeling
 
-Advanced analytics
+  🔹 Enterprise architecture
 
-Enterprise architecture
+  🔹 Regulatory-aware environments
 
-Regulatory-aware environments
+  🔹 Executive decision support
 
-Executive decision support
 
-🔎 What I Build
+Two of my Selected Systems:
 
-Predictive risk modeling systems (classification & optimization)
+  🔹 Mortgage Risk & Retention Analytics Platform
 
-API-based model scoring services
+  Enterprise-style predictive analytics system for mortgage risk modeling and operational optimization.
 
-Executive-ready dashboards & reporting
+  Includes:
 
-Data-to-decision automation pipelines
+  SQL data layer + feature engineering
 
-Operational optimization engines linked to ML outputs
+  Machine learning pipeline (classification)
 
-I focus on designing systems that are not just accurate — but deployable, explainable, and aligned to business impact.
+  REST API scoring service
 
-🏗 Featured Systems
-🔹 Mortgage Risk & Retention Analytics Platform
+  Interactive dashboard
 
-End-to-end mortgage predictive analytics system built to mirror enterprise lending operations.
+  Executive-ready PDF reporting
 
-Capabilities:
+  Optimization layer linking risk scores to staffing & SLA decisions
 
-Structured SQL data layer (SQLite + SQLAlchemy)
+  Demonstrates full lifecycle design from data ingestion to executive reporting.
+  
 
-Machine learning pipeline (scikit-learn)
+  🔹 Insight AI App
 
-REST API scoring service (FastAPI)
+  API-driven analytics application focused on transforming structured data into interactive, decision-ready outputs.
 
-Interactive dashboard (Streamlit)
 
-Auto-generated executive PDF reporting
+🔹 Architecture Philosophy
 
-Risk modeling tied to operational decision workflows
+I enjoy designing analytics platforms with: 
 
-Business Focus:
+Structured data modeling
+Evaluated & explainable ML
+API-based deployment
+Executive-facing visualization
+Governance & decision alignment
 
-Loan fallout prediction
 
-Customer retention risk scoring
+🔹 Technical Stack
 
-Portfolio risk segmentation
-
-Operational impact simulation
-
-This platform demonstrates how predictive models integrate with staffing decisions, SLA targets, and revenue preservation strategies — not just model accuracy.
-
-🔹 Insight AI App
-
-AI-powered analytics application focused on transforming complex data into executive-ready insights through API-based processing and interactive visualization.
-
-Demonstrates:
-
-Backend system design
-
-API integration
-
-Scalable architecture concepts
-
-Deployment-readiness mindset
-
-🔜 Underwriter Capacity Optimization Engine (In Development)
-
-Operational simulation layer that converts loan risk scores into staffing optimization recommendations using queue modeling and Monte Carlo simulation.
-
-Focus:
-
-SLA compliance modeling
-
-Throughput optimization
-
-Revenue-at-risk quantification
-
-Decision support for operational leadership
-
-🧠 Systems Architecture Approach
-
-I build analytics platforms with a structured enterprise mindset:
-
-Data Layer – relational schema & feature engineering
-
-Modeling Layer – classification, evaluation, explainability
-
-Governance – performance metrics, assumptions, interpretability
-
-API Layer – real-time scoring services
-
-Visualization – executive dashboards
-
-Reporting – automated business-ready outputs
-
-This mirrors real-world enterprise data science workflows.
-
-🛠 Technical Stack
-
-Languages
 Python | SQL
+scikit-learn | XGBoost | SHAP
+FastAPI | SQLAlchemy
+Streamlit
+Docker (conceptual deployment)
 
-Data & Machine Learning
-scikit-learn | XGBoost | SHAP | Pandas | NumPy
 
-Backend & APIs
-FastAPI | SQLAlchemy | REST architecture
+🔹 Focus Areas
 
-Visualization
-Streamlit | Matplotlib | Plotly
-
-Infrastructure Concepts
-Docker | CI principles | Environment configuration | Modular architecture
-
-🏛 Executive Foundation
-
-Before transitioning into applied AI systems development, I led large-scale federal programs across defense logistics and sustainment environments.
-
-That experience shaped how I approach analytics:
-
-Align models with operational execution
-
-Design for auditability and governance
-
-Translate quantitative results into strategic decisions
-
-Balance technical rigor with real-world constraints
-
-I don’t build isolated models — I build decision systems.
-
-📫 Let’s Connect
-
-I’m particularly interested in roles at the intersection of:
-
-Predictive modeling
-
-Risk analytics
-
+Predictive risk modeling
+Revenue & portfolio analytics
 Operational optimization
-
-Financial services/mortgage analytics
-
-Enterprise AI transformation
+Financial services & regulated environments
+Enterprise AI modernization
