@@ -2,7 +2,7 @@
 
 I build end-to-end predictive analytics systems that convert complex data into operational decision frameworks.
 
-With 15+ years leading $40M+ DoD sustainment and modernization programs, I now focus on designing production-ready machine learning platforms aligned to revenue protection, risk modeling, and operational optimization.
+With 10+ years leading DoD sustainment and modernization programs, I now focus on designing production-ready machine learning platforms aligned to revenue protection, risk modeling, and operational optimization.
 
 I specialize in bridging:
 
